@@ -1,6 +1,6 @@
 # customer-churn-and-spend-prediction
 Customer Spend & Churn Prediction
-📌 Project Overview
+#📌 Project Overview
 
 This project predicts customer future spending and churn risk using real-world e-commerce data.
 It combines regression (to forecast spending) and classification (to predict churn) while demonstrating strong ML concepts:
@@ -15,7 +15,7 @@ Threshold Optimization → Maximized business revenue captured
 
 Hyperparameter Tuning → Improved performance with regularization
 
-🚀 Problem Statement
+#🚀 Problem Statement
 
 E-commerce businesses often struggle with:
 
@@ -25,7 +25,7 @@ Allocating retention resources effectively
 
 Minimizing revenue lost to customer attrition
 
-🔑 Impact
+#🔑 Impact
 
 Regression Model achieved 52.7% improvement over baseline in predicting spend.
 
@@ -43,9 +43,9 @@ Revenue saved increased from $77K → $101K
 
 31.7% more revenue protected
 
-📊 This demonstrates how ML can directly impact business profitability.
+#📊 This demonstrates how ML can directly impact business profitability.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Language: Python
 
